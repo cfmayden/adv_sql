@@ -2,8 +2,8 @@
 CASE 
 WHEN
 WHEN 
-THEN
-ELSE
+test
+test
 END
 
 '''If you want to test multiple logical conditions in a CASE statement, you can use AND inside your WHEN clause. EXAMPLE BELOW'''
